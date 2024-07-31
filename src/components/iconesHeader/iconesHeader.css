@@ -1,0 +1,9 @@
+.icones {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.icone {
+    margin-right: 30px;
+}
